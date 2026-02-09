@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "retail-project-486912",
+  "private_key_id": "3856c11feeb674b64fe2eb928c7ea6ed9aa6bedb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDUoy+YE9Q80p7W\nUu9K9RDfWk30De+QcIiCfvXKxlCLvXJk7pOIHqiCET90cDZ8FpePHJp9eBbQ3rWE\nXwS3HyyGfw4I1Lp8wlm2tB8vXVRE648sLpqZ9F7Ph4s6mCIgBOpaSKnxLjHxRfJk\npnLcRvdWmBH8hCwwH9mSmRNvztMtUknsv9AOcvgZxbYcw5D9dUbKF9o7t5IrK/8k\nyg8hhXulNW0xGn047p7lK/ZZw3rCkCf1wOIDenLZKuZ9qFvvMPsgOly0vS2zrBRM\ndYp1qyks63/HQhaiNTjaNAopMm62tpr5jRg9cqfTdX+VCUYw4o0JLHo1C1qS5ub0\nWCXfyi57AgMBAAECggEADZXe1hVk6NKUxwu7HIEQ0rxcdlHSSFpa6798fmKc8Hiq\nT4w199XsR+HIj0IWG70pHMHOlbfvo+j+vut/4R/y7SWT+iN2m2mivWYVB1EsBPqU\nhgBKQg4suo9QlBihNtt+35rR5MYModDUE53WK9W1kB5HfpMxQY00uPA3yjEe0+qB\nWTT8NDKaBDqrGA8bOrVidLEvT0reMV9jCr5Dv8AygLbof2h/54yxGIeyO/BfhZRz\npEYwquG9powYaC6TbYQrCxP9kSD/Ed2q8+esd1+TNuW4JPYI4ULfc9ScGgg4yhiM\n4b4ZUpIe0RG/7R5GLvgpk+lS9+20LE9xCI1yXAOvLQKBgQDwhpIsiDHWKlJm0523\nlg+aLjSf0wdmT+J3Vcy132uNWZXvSy3n6wRBVURlE0vqYsBA+xAOhGy58OrzH3+C\nDus8Cs/SmIUTXahUoidRPqoXHIsV9Fq8ewuvN7wmqR5/a2Dv2MGzNWs8njOQWb5b\nZum6u45+AwOvGUWfbVwdn11UbwKBgQDiUUyZ3QsP7hV4y6hX6YZk4LYohFUlaX37\no5UbV/jWyvNpqX+X+zVqRpSv9Xiv72Yt1gHeplnwxVWglrl9UN1WYL9uvj6NFRH+\nudPCZe0NY3VpgdJ7m8zmEI5KRtzEfNOQzMpZ7zW/sNisZ4O83mRFT8snamPHrgeL\nVL1PDaBEtQKBgQDmVIgQWxAWfgrQ619CWlJwnETKtISGhoNhMenKVLyi7KI3ODAq\nwhUeF3BatoLhXlWrJIF41XllCn+D+KrbOjwsEFJ54pK1O+Ahw/KQy8iIP0415P0r\nN022KlJkV1mcPZDjvhen7MTXlMveNQKkdsXmiwtmQq65dCMHC+vFdkIiwwKBgQCB\nty1bhxk/ESwXZ0te0AdqrG1bvbV70wIViAX/fSWwHvTzG+Z4+s/70OaKD/0Tgfij\nzuSVc+1bFg/lEl7Ql9e1GZC/baU2gdwljubzpi3/nYD/bxxwIrWHK/gSVJlWuWEd\nvnNApt28uCUIc/BLAYChRYHgXpdALNxAHNrAg8PXfQKBgQCsO48qa7IP1D/8/rzv\n7dKZ0ircw9s9XG3KxNQoRxoZXocGmZDYmAUlGDpnZAc7a78A7JsCGshx4yaNHZEW\nuIvS1ixQG/UxO8N9OZdmtiN5/nBf8Spz1pOMoPtlmzOm4xA+o5mn36dQq5/vEw5y\n3HkEhpJ8wNrfX52C7PZoPUSb6w==\n-----END PRIVATE KEY-----\n",
+  "client_email": "airflow-runner@retail-project-486912.iam.gserviceaccount.com",
+  "client_id": "115090864338554804620",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/airflow-runner%40retail-project-486912.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
